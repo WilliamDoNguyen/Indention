@@ -1,2 +1,2 @@
-Fake_Blog/
-Registration_Form/
+*/Fake_Blog/
+*/Registration_Form/
